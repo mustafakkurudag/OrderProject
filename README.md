@@ -10,10 +10,10 @@ Path için geliştirdiğim symfony restful servis projesi.
 <br>
 
 >2. kullanıcı:<br>
->username: customer3@abc.com <br>password: 54321
+>username: customer2@abc.com <br>password: 54321
 
 >3. kullanıcı:<br>
->username: customer1@abc.com <br>password: 15243
+>username: customer3@abc.com <br>password: 15243
 
 - Kullanıcı parolaları veritabanında şifrelenmiş olarak saklanmaktadır.
 
