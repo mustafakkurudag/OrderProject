@@ -1,5 +1,5 @@
-# PathProject
-Path için geliştirdiğim symfony restful servis projesi.
+# OrderProject
+Basit bir Symfony restful servis projesi.
 
 ## Sipariş takip sistemi
 - localhost:8000/api/login_check adresinden sisteme kullanıcı girişi yapılır. Başarılı giriş sonucunda **jwt token** sonuç olarak döner. Bu token ile işlemleri yapmadan önce doğrulama yapmanız gerekmektedir. Doğrulama tipi **Bearer**'dır. Token'ın geçerlilik süresi 1 saattir.
